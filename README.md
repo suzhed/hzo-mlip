@@ -28,7 +28,7 @@ The dataset includes monoclinic (m), tetragonal (t), orthorhombic-1 (o1), and or
 
 ### `hzo_eps.tar.gz`
 
-Computational and analysis files for investigating the dielectric properties of HZO.
+Computational and analysis files for finite-temperature simulations of dielectric properties in different HZO phases and the temperature-driven o3–t phase transition.
 
 ### `hzo_o3-t.tar.gz`
 
